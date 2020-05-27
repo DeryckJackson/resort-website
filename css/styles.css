@@ -1,23 +1,23 @@
 h1 {
-  color:
-  font-family:
-  text-align:
+  color: forestgreen;
+  font-family: serif;
+  text-align: center
 }
 
 h2 {
-  color:
-  font-family:
-  text-align:
+  color: lime
+  font-family: serif;
+  text-align: center;
 }
 
 p {
-  font-family: 
+  font-family: serif;
 }
 
 li {
-  font-style:
+  font-style: bold;
 }
 
 body {
-  background-color:
+  background-color:green;
 }
